@@ -8,3 +8,5 @@ And independent as the sun,
 Associates or glows alone,
 Fulfilling absolute decree//git_1
 In casual simplicity.//git_1
+Fulfilling absolute decree //git_2
+In casual simplicity. //git_2
